@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=vict5dev&icon=1&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vict5dev&icon=1&color=8)](https://visitcount.itsvg.in)
 
 ### 💫 About Me:
 Python, Laravel Developer<br>
